@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Futa Waseda / '"
+title                    : "Futa Waseda"
 title_separator          : "-"
 name                     : &name "Futa Waseda"
 description              : &description "Master's student in The University of Tokyo."
 url                      : https://futakw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "futakw/futakw.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "images/profile.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Futa Waseda"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Computer Vision Researcher"
   location         : "Kanagawa, Japan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.jp/citations?hl=ja&user=aBQ2en8AAAAJ"
   email            : "futa-waseda@g.ecc.u-tokyo.ac.jp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
