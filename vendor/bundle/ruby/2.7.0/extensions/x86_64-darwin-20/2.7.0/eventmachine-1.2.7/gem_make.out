@@ -1,0 +1,16 @@
+current directory: /Users/wasedafuuta/Desktop/futa_website/Website/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/wasedafuuta/.rbenv/versions/2.7.2/bin/ruby -I /Users/wasedafuuta/.rbenv/versions/2.7.2/lib/ruby/site_ruby/2.7.0 -r ./siteconf20220420-74895-dqusyt.rb extconf.rb
+creating Makefile
+
+current directory: /Users/wasedafuuta/Desktop/futa_website/Website/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= clean
+
+current directory: /Users/wasedafuuta/Desktop/futa_website/Website/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\=
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/wasedafuuta/Desktop/futa_website/Website/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20220420-74895-1ygq1g7
